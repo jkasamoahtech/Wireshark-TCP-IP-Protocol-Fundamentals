@@ -16,4 +16,5 @@
 
 ## Project Goal
 
-- 
+- The IT Manager wants to be able to monitor web traffic on the server in order to verify website visited are exhibiting proper
+  TCP/IP behavior.
