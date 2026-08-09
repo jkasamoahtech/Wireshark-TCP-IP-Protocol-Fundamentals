@@ -34,7 +34,7 @@
 ### Task 1 ( Start a packet capture on the wired Ethernet port and save it to file )
 
 ### Wireshark Interface Task 1
-![Wireshark_Task_One](Wireshark_Task_One.png)
+![Wireshark Task One](Wireshark Task One.png)
 
 
 
