@@ -18,3 +18,18 @@
 
 - The IT Manager wants to be able to monitor web traffic on the server in order to verify website visited are exhibiting proper
   TCP/IP behavior.
+
+
+---
+
+## Tasks
+
+### Task 1 ( Start a packet capture on the wired Ethernet port and save it to file )
+
+- 
+
+
+### Task 2 ( Use a display filter to observe the internet Layer of TCP/IP network traffic )
+- jn
+
+
