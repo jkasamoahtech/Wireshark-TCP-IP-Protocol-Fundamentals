@@ -22,6 +22,13 @@
 
 ---
 
+## Scenario
+
+- I am working for a company that wants to observe packet information in order to understand potential TCP/IP network issues.
+
+
+---
+
 ## Tasks
 
 ### Task 1 ( Start a packet capture on the wired Ethernet port and save it to file )
