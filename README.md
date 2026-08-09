@@ -26,7 +26,9 @@
 
 ### Task 1 ( Start a packet capture on the wired Ethernet port and save it to file )
 
-- 
+### Wireshark Interface Task 1
+![Wireshark_Task 1](Wireshark_Task_1.png)
+
 
 
 ### Task 2 ( Use a display filter to observe the internet Layer of TCP/IP network traffic )
